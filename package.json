@@ -7,7 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "publishConfig": {
-   "@ypervak:registry": "https://npm.pkg.github.com"
+   "@YPervak:registry": "https://npm.pkg.github.com"
  },
   "repository": {
     "type": "git",
